@@ -2,12 +2,12 @@ Understanding the Complex Interactions in New York City : Exploring Taxi & Weath
 
 # BigData-Project
 
-Data sources: 
-Weather data set : https://nyu.box.com/s/4lkrxs9rdsfjzpu1gh9nwen89jxtc9dd
-Weahter metadata: https://nyu.box.com/s/461edjve0obbsefcpaygb1h9z8yc49c4
-Yellow Taxi data : http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
-Taxi metadata : http://www.nyc.gov/html/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
-Snow Conditions: https://www.ncdc.noaa.gov/snowandice/rsi/nesis
+Data sources: __
+Weather data set : https://nyu.box.com/s/4lkrxs9rdsfjzpu1gh9nwen89jxtc9dd __
+Weahter metadata: https://nyu.box.com/s/461edjve0obbsefcpaygb1h9z8yc49c4 __
+Yellow Taxi data : http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml __
+Taxi metadata : http://www.nyc.gov/html/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf __
+Snow Conditions: https://www.ncdc.noaa.gov/snowandice/rsi/nesis __
 
 Contributors: Rama Krishna Raju(rks395@nyu.edu) and Sudhir Nallam(psn240@nyu.edu)
 

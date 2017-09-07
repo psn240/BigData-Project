@@ -1,5 +1,3 @@
-Understanding the Complex Interactions in New York City : Exploring Taxi & Weather Datasets
-
 # BigData-Project
 
 Data sources:  
